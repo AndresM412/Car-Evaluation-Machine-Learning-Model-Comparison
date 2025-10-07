@@ -1,7 +1,8 @@
-🚗 Clasificación de Autos con Machine Learning
 
 ![Car Evaluation Project](https://cdn.pixabay.com/photo/2020/04/07/15/20/volvo-5013806_1280.png)
 
+
+🚗 Clasificación de Autos con Machine Learning
 
 Este proyecto implementa un modelo de **clasificación supervisada** para predecir la **categoría de aceptación de un automóvil** (Car Evaluation Dataset) utilizando **Regresión Logística** y **SVM**, con un enfoque en la **optimización de hiperparámetros** mediante **GridSearchCV**.
 
